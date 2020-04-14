@@ -1,0 +1,12 @@
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/bin/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.deps.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/bin/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.runtimeconfig.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/bin/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.runtimeconfig.dev.json
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/bin/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.dll
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/bin/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.pdb
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.csprojAssemblyReference.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.csproj.CoreCompileInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.AssemblyInfoInputs.cache
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.AssemblyInfo.cs
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.dll
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.pdb
+/Users/guilhermerm/Documents/PersonalProjects/Csharp/hackerrank-bfs-shortest-reach/hackerrank-bfs-shortest-reach/obj/Debug/netcoreapp3.1/hackerrank-bfs-shortest-reach.genruntimeconfig.cache
